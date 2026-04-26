@@ -44,3 +44,7 @@ Select option 2
 
 The system captures live video and predicts defect type along with confidence score in real-time.<img width="793" height="616" alt="Screenshot 2026-04-26 083211PROJECT2" src="https://github.com/user-attachments/assets/28d9730c-8666-453f-9f8f-3b09412f3007" />
 <img width="793" height="616" alt="Screenshot 2026-04-26 083211PROJECT2" src="https://github.com/user-attachments/assets/dd284e9e-3a34-48b2-8cb3-7b5805c2541b" />
+## 📷 Screenshots
+Real-time defect detection output:
+
+![Output](output.png)
