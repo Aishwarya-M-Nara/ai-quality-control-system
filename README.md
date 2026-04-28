@@ -1,33 +1,36 @@
 AI-Powered Manufacturing Quality Control System
-📌 Overview
+Overview:
 
 This project is a real-time computer vision system designed to detect manufacturing defects using deep learning. It uses a ResNet-18 model to classify products into multiple defect categories.
 
-🚀 Features
+Features:
+
 Real-time defect detection using webcam
 Deep learning-based image classification
 Multi-class defect detection
 Automated quality inspection system
-🛠️ Tech Stack
+
+Tech Stack:
 Python
 PyTorch
 OpenCV
 NumPy
 PIL
-🧠 Model Details
+
+Model Details:
 Model: ResNet-18
 Loss Function: CrossEntropyLoss
 Optimizer: Adam
-📂 Dataset
 
+Dataset:
 Custom dataset created by collecting and labeling images for different defect categories:
-
 Good
 Scratch
 Dent
 Color Variation
 Dimension Issue
-▶️ How to Run
+
+How to Run:
 1. Install dependencies
 pip install torch torchvision opencv-python numpy pillow
 2. Train the model
@@ -40,11 +43,9 @@ python main.py
 
 Select option 2
 
-📊 Output
+OUTPUT OF AI-POWERED MANUFACTURING QUALITY CONTROL SYSTEM
+<img width="793" height="616" alt="Screenshot 2026-04-26 083211PROJECT2" src="https://github.com/user-attachments/assets/218e9e06-75ed-4215-afc1-ec45e188bd93" />
 
-The system captures live video and predicts defect type along with confidence score in real-time.<img width="793" height="616" alt="Screenshot 2026-04-26 083211PROJECT2" src="https://github.com/user-attachments/assets/28d9730c-8666-453f-9f8f-3b09412f3007" />
-<img width="793" height="616" alt="Screenshot 2026-04-26 083211PROJECT2" src="https://github.com/user-attachments/assets/dd284e9e-3a34-48b2-8cb3-7b5805c2541b" />
-## 📷 Screenshots
-Real-time defect detection output:
 
-![Output](output.png)
+
+
