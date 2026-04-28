@@ -42,6 +42,7 @@ Select option 1
 python main.py
 
 Select option 2
+Start detection
 
 OUTPUT OF AI-POWERED MANUFACTURING QUALITY CONTROL SYSTEM
 <img width="793" height="616" alt="Screenshot 2026-04-26 083211PROJECT2" src="https://github.com/user-attachments/assets/218e9e06-75ed-4215-afc1-ec45e188bd93" />
